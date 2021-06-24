@@ -1,5 +1,6 @@
 # Hello There!
-### I Am Simpleboy353! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### I am Simpleboy353! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### I am a Verified Discord Bot Developer, experienced in discord.js. I have some knowledge about Java and Python and I'm currently learning HTML and CSS.
 
 ### Languages and Tools:
 
