@@ -21,6 +21,6 @@
 ---
 
 ### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Simpleboy353&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Issue,PullRequest,MultipleLanguages)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Simpleboy353&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ![Simpleboy353's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simpleboy353&show_icons=true&theme=radical)
 <img alt="Simpleboy353's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simpleboy353&langs_count=7&layout=compact" />
