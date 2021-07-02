@@ -4,7 +4,7 @@
 
 ## I'm a Discord Bot Developer
 
-- 🌱 I am experienced in Discord.JS and I am currently learning HTML amd CSS
+- 🌱 I am experienced in Discord.JS and I am currently learning HTML and CSS
 - 🏆 2021 Goals: Contribute to more open source projects and upgrading my [discord bot!](https://infinitybot.tk/invite)
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/661501985517862972)
 - 😄 Pronouns: He/Him
