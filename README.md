@@ -24,7 +24,7 @@
 ---
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**Total ![visitor no](https://visitor-badge.glitch.me/badge?page_id=Simpleboy353.Simpleboy353&left_color=black&right_color=black)**
 
 ```text
 🌞 Morning    158 commits    ██████████░░░░░░░░░░░░░░░   40.93% 
