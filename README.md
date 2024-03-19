@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 - 🌱 A discord bot developer.
-- 🏆 2023 Goals: Don't know?
+- 🏆 2024 Goals: Don't know?
 - 📫 What is the best way to contact me? [Discord](https://discord.com/users/661501985517862972)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simpleboy353)
